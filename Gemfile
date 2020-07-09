@@ -60,6 +60,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'pry-rails'
 gem 'devise'
 gem 'jquery-rails'
+gem "actionpack"
 
 group :production do
   gem 'rails_12factor'
